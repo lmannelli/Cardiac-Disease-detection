@@ -1,4 +1,4 @@
-# Cardiac-Disease-detection
+# Detección automatica de arritmias cardíacas
 Dentro de las arritmias, se pueden encontrar distintos tipos de contracciones cardíacas patológicas. Entre estas, se destacan las PVC y las APC.
 
 Las PVCs (Premature ventricular contractions) son latidos anormales, extraordinarios, que empiezan en los ventrículos e irrumpen el ritmo cardíaco normal. Si bien en muchos casos puede aparecer en un corazón sano, la aparición continua de los mismos y prolongada es un signo de una patología cardíaca.
